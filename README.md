@@ -50,20 +50,6 @@ Contributions are what make the open source community such an amazing place to b
 5. Open a Pull Request
 
 
-
-
-
-
-<!-- CONTACT -->
-## Contact
-LinkedIn
-[Jaspreet Singh](https://www.linkedin.com/in/jaspreetsidhu13/)
-
-More Projects
-GitHub: [JaspreetSidhu3](https://github.com/jaspreetsidhu3)
-
-
-
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 * Python 3 language
